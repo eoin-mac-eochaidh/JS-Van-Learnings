@@ -23,5 +23,8 @@ const square = function (n) {
 };
 ```
 
+TO DO 
+Use cases for function expressions and functions expressions. Strengths, weaknesses etc
+
 
 

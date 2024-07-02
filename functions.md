@@ -1,0 +1,4 @@
+** Javascript functions **
+
+- Explain Hoisting
+

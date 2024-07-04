@@ -26,5 +26,26 @@ const square = function (n) {
 TO DO 
 Use cases for function expressions and functions expressions. Strengths, weaknesses etc
 
+## **Recursion**
+
+A function can refer to and call itself.
+
+A function that calls itself is called a recursive function
+
+Much like a loop it needs some sort of a condition that will avoid an infinite running.
+This is the **Base Case**. A condition where the function returns value without making the recursive call.
+
+A **Recursive Case** will follow this, under which the function calls itself, returning an output.
+
+The class iterative loop of recursive function approach both have their strengths.
+
+Classic approach may be more readable and possibly easier to debug as steps are clearly visible.
+
+Recursive approach may be shorter code
+
+Useful for certain tasks like traversing linked lists and certain data structures, like linked lists, binary trees and graphs.
+
+Recursive functions are a core element of the functional programming approach
+
 
 

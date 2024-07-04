@@ -39,13 +39,13 @@ A **Recursive Case** will follow this, under which the function calls itself, re
 
 The class iterative loop of recursive function approach both have their strengths.
 
-Classic approach may be more readable and possibly easier to debug as steps are clearly visible.
+* Classic approach may be more readable and possibly easier to debug as steps are clearly visible.
 
-Recursive approach may be shorter code
+* Recursive approach may be shorter code
 
-Useful for certain tasks like traversing linked lists and certain data structures, like linked lists, binary trees and graphs.
+* Useful for certain tasks like traversing linked lists and certain data structures, like linked lists, binary trees and graphs.
 
-Recursive functions are a core element of the functional programming approach
+* Recursive functions are a core element of the [functional programming](https://en.wikipedia.org/wiki/Functional_programming) approach
 
 
 
